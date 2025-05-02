@@ -27,3 +27,5 @@ Este projeto é um aplicativo web interativo desenvolvido com Streamlit. Ele per
 
 O arquivo `streamlit/config.toml` foi incluído para tornar o projeto compatível com o Render.
 
+O link para acessar o app criado é https://projeto-sprint-5-carros-streamlit.onrender.com
+https://github.com/gschmidel19
