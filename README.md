@@ -10,7 +10,7 @@ Repositório com os projetos desenvolvidos durante o curso de formação em Aná
 | 2      | Teste de Hipótese: Preferências Musicais por Cidade | [Ver projeto](https://github.com/gschmidel19/sprint-02-preferencias-musicais-cidades/tree/main/sprint-02-preferencias-musicais-cidades) |
 | 3      | Análise de Teste A/B em Loja Online                | [Ver projeto](https://github.com/gschmidel19/sprint-3-ab-test-analysis/tree/main/sprint-3-ab-test-analysis) |
 | 4      | Análise Estatística de Dados: Plano Megaline       | [Ver projeto](https://github.com/gschmidel19/Sprint_4_Megaline/tree/main/Sprint_4_Megaline) |
-| 5      | Dashboard Interativo com Streamlit                 | [Ver projeto](https://github.com/gschmidel19/sprint-05-dashboard-streamlit) |
+| 5      | Dashboard Interativo com Streamlit                 | [Ver projeto](https://testeaula-vadtlkgochzupctcfyxgp6.streamlit.app) |
 
 ## 🧰 Tecnologias
 
